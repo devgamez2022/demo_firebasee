@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class jenifer StatelessWidget {
+class jenifer extends StatelessWidget {
   const jenifer({super.key});
 
   @override
