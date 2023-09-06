@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class jenifer StatelessWidget {
-  const jenifer.key});
+  const jenifer({super.key});
 
   @override
   Widget build(BuildContext context) {
